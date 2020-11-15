@@ -1,8 +1,8 @@
-### Hi there 👋
-
-
+### Hi there my name is Harun ERGUL
+## I am a Senior Software Engineer and Full Stack Web Developer
 
 - 🔭 I’m currently working on Java, Angular
+-  I have experience with pure javascript, Angular 1.5, VueJS, Angular 8+, 
 - 🌱 I’m currently learning client side technologies in general.
 <!--
 **harunergul/harunergul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
