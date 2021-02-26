@@ -8,8 +8,8 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-8DD6F9?style=flat-square&logo=spring&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
