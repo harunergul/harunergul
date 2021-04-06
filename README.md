@@ -11,6 +11,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
   <img alt="Apache Maven" src="https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" /> 
+  <img alt="Apache Tomcat" src="https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black" /> 
   <img alt="Nginx" src="https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
