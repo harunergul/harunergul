@@ -6,7 +6,7 @@
 
 <a href="https://stackoverflow.com/users/4104008/harun-ergul"><img src="https://stackoverflow.com/users/flair/4104008.png?theme=clean" width="208" height="58" alt="profile for Harun ERGUL at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Harun ERGUL at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<h3>Things I code with</h3>
+<h3>Some of the things that I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
