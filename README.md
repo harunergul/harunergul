@@ -39,6 +39,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-199010?style=flat-square&logo=socket.io&logoColor=white" />
   <img alt="CodePen.io" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" />
+  <img alt="VisualStudioCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   
  
 </p>
