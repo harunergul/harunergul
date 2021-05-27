@@ -33,9 +33,12 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache%20ECharts-AA344D?style=flat-square&logo=apache-echarts&logoColor=white" />
   <img alt="Sonar Lint" src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white" />
-  <img alt="Racket" src="https://img.shields.io/badge/-Racket-9F1D20?style=flat-square&logo=racket&logoColor=white" />
   
-   
+  
+  
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Racket" src="https://img.shields.io/badge/-Racket-9F1D20?style=flat-square&logo=racket&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
