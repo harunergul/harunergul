@@ -50,7 +50,7 @@
  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harunergul&layout=compact)](https://github.com/harunergul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harunergul&layout=compact)](https://github.com/harunergul/harunergul)
 
 
 ![Harun's github stats](https://github-readme-stats.vercel.app/api?username=harunergul&show_icons=true)
